@@ -4,5 +4,6 @@ public class testi {
 		System.out.println("tere");
 		
 		System.out.println("Miksa was here");
+		System.out.println("Miksa was here");
 	}
 }
